@@ -1,0 +1,6 @@
+# Harbour Tank Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://harbourtank.ca/sitemap-index.xml
