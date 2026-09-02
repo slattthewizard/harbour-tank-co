@@ -72,4 +72,4 @@ only; never invent street or business names.
 
 ## Contact
 - Phone (709) 800-3117 is a PLACEHOLDER until a real number is bought. Email info@harbourtank.ca.
-- Formspree endpoint: https://formspree.io/f/mdeozgwr (created 2026-09-02). GA4: not yet created.
+- Formspree endpoint: https://formspree.io/f/mdeozgwr (created 2026-09-02). GA4: G-S3P4MC25MN (properties/552627357), key events phone_click + form_submit_attempt.
