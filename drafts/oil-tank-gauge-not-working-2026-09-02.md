@@ -38,7 +38,7 @@ You can rule a lot in or out without any tools.
 
 **Do the burn math.** In a St. John's January, a typical oil-heated home burns somewhere around 8 to 15 litres a day, more during a cold snap or if you've got the thermostat cranked. Count the days since your last delivery, multiply, and subtract. If the gauge says you've burned nothing in three weeks, you know better.
 
-Picture Gerald in Mount Pearl. His gauge sat at half from mid-December right through January, so he figured he was fine. On a Sunday morning in early February the furnace went cold, and the stick showed a fingertip of oil in the bottom of the tank. The emergency delivery charge and a furnace tech to bleed the line ran him about $350 before he'd bought a single litre of oil. A stick check every two weeks would've cost him nothing.
+Picture a homeowner in Mount Pearl whose gauge sat at half from mid-December right through January, so they figured they were fine. On a Sunday morning in early February the furnace went cold, and the stick showed a fingertip of oil in the bottom of the tank. Between the emergency delivery charge and a furnace tech to bleed the line, they'd spent real money before buying a single litre of oil. A stick check every two weeks would've cost them nothing.
 
 ## How to Check Your Real Fuel Level With a Dipstick
 
@@ -80,7 +80,7 @@ Sometimes the gauge is the only thing wrong. Sometimes it's the first thing you 
 
 **Look at the tag.** Every registered tank in Newfoundland and Labrador carries a metal HOST tag with a six-digit number and an expiry stamped in month-year form. A tag reading 7-2028 means the tank can't be used after the end of July 2028. Under the province's [Heating Oil Storage Tank System Regulations](https://www.assembly.nl.ca/legislation/sr/regulations/rc030060.htm), a delivery driver isn't allowed to fill a tank without a valid, unexpired label. If you're not sure how to read yours, our guide on [how to read a HOST tag](/blog/how-to-read-host-tag/) walks through it.
 
-Take Dave out in Torbay. His gauge had been dead since the fall, so he went out with a stick one Saturday to check the level before a cold snap. While he had the cap off he noticed the tag: 3-2026. It had expired months earlier and nobody had caught it. His oil company's next driver did catch it, and the truck left without pumping. Dave ended up with a new 200-gallon painted steel tank installed for $3,200, old tank removed and disposed of, and a fresh tag good for years. Fixing the gauge on the old tank would've been money down the drain.
+Take a typical case out in Torbay. The gauge had been dead since the fall, so the owner went out with a stick one Saturday to check the level before a cold snap. With the cap off, they noticed the tag: 3-2026. It had expired months earlier and nobody had caught it. The oil company's next driver did catch it, and the truck left without pumping. They ended up with a new 200-gallon painted steel tank installed for $3,200, old tank removed and disposed of, and a fresh tag good for years. Fixing the gauge on the old tank would've been money down the drain.
 
 A gauge that quits on a tank that's ten or fifteen years old is often a tank near the end of its life. Outdoor single-wall steel tanks get 10 to 20 years under the regulations depending on the gauge of steel and where the outlet is. If your tag runs out within the next year, put the gauge money toward the [replacement tank](/oil-tank-replacement-st-johns/) instead.
 
@@ -90,14 +90,14 @@ Here's the rough decision table. Prices for new tanks are our published installe
 
 | What you found | Sensible fix | Cost (CAD) |
 |---|---|---|
-| Float stuck, tank sound, tag valid for 3+ years | New float gauge | Parts are usually under $60. Many furnace techs will fit one during the annual service. |
+| Float stuck, tank sound, tag valid for 3+ years | New float gauge | An inexpensive part. Many furnace techs will fit one during the annual service. |
 | Dome fogged or cracked, tank sound | New gauge or dome | As above |
 | Water or heavy sludge on the stick | Tank service, possible pump-out and clean | Quoted case by case |
 | Tag expires within 12 months, tank otherwise fine | Replace the tank on your schedule | $3,200 painted steel, $3,850 fibreglass, installed |
 | Tag already expired or delivery refused | Replace the tank now | Same rates; call the 24/7 line |
 | Rust, wet spot, leaning stand | Stop using it, get it looked at today | Outdoor removal and disposal from $500; indoor quoted case by case |
 
-Marilyn in Kelligrews is a good example of the cheap end. Her gauge read just under a quarter, so she called for a fill. The driver could only get 140 litres in before the tank was full, and she'd paid a delivery charge for what amounted to a top-up. The float had been stuck low for weeks. Her furnace tech swapped the gauge for about $45 in parts on his next visit, and her tag was good until 2031.
+A homeowner in Kelligrews is a good example of the cheap end. The gauge read just under a quarter, so they called for a fill. The driver could only get 140 litres in before the tank was full, and they'd paid a delivery charge for what amounted to a top-up. The float had been stuck low for weeks. The furnace tech swapped the gauge on the next visit, a small part and a few minutes, and the tag was good until 2031.
 
 The gauge is a cheap part. The real question is whether it's worth putting on that tank. If you'd rather have someone make that call in person, [book a free written estimate](/#contact) and we'll check the tag, the stand, the lines, and the gauge in one visit.
 

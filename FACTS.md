@@ -54,8 +54,12 @@ for island logistics, so the site's conversion article uses these "about" ranges
   most Avalon homes $12,000-$20,000. Always "about"; always tell the reader to get written quotes.
 
 ## Subsidies (state as closed; do not promise money)
-- Federal Oil to Heat Pump Affordability program: closed to new applications 31 July 2026 (documents due
-  31 Jan 2027).
+- Federal Oil to Heat Pump Affordability program: upfront payment of up to $10,000 for eligible lower-income
+  oil-heated households (federal page, verified 12 Sept 2026); closed to new applications 31 July 2026;
+  approved applicants must finish the work and upload documents by 31 Jan 2027; program transitioning to
+  Environment and Climate Change Canada.
+- takeCHARGE dollar amounts are NOT verified (site returned 503 on 12 Sept 2026): do not state them.
+- No program has ever paid for replacing an oil tank with another oil tank.
 - NL takeCHARGE Oil to Electric, general stream: installations and invoices had to be dated 1 Apr 2023 to
   31 Mar 2026 (closed). Low- and moderate-income stream continues to 31 Mar 2027.
 

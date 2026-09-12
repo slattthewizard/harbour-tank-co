@@ -33,7 +33,7 @@ Every registered oil tank in Newfoundland and Labrador carries a metal HOST tag 
 
 Here's why it matters. Under the province's [Heating Oil Storage Tank System Regulations](https://www.assembly.nl.ca/legislation/sr/regulations/rc030060.htm), a delivery driver isn't allowed to put oil into a system without a valid, unexpired registration label. If the tag is expired, the driver also has to report it to the owner and the government. So a truck can show up at two in the morning, read the tag, and drive away with your oil still on board.
 
-Debbie in Mount Pearl found this out the hard way last winter. Her tank ran dry on a Sunday afternoon, she called for an emergency delivery, and the driver read a tag stamped 11-2025 and left. She'd been buying oil all fall for a tank that had been illegal since the first of December, and nobody had noticed. A new 200-gallon steel tank, with the old one hauled away, came to $3,200. The truck came back once the installer's licensed inspector had tagged and registered the new one.
+Picture a homeowner in Mount Pearl finding this out the hard way. The tank runs dry on a Sunday afternoon, they call for an emergency delivery, and the driver reads a tag stamped 11-2025 and leaves. They'd been buying oil all fall for a tank that had been illegal since the first of December, and nobody had noticed. A new 200-gallon steel tank, with the old one hauled away, comes to $3,200. The truck comes back once the installer's licensed inspector has tagged and registered the new one.
 
 If your tag is expired, or expires this month, stop here and skip down to the section on replacement, because no supplier on the Avalon is going to fill that tank. If the tag is good, carry on.
 
@@ -59,7 +59,7 @@ Once there's fuel in the tank, the burner still has a line full of air between t
 
 If it doesn't light, wait a couple of minutes and try one more time. That's it. Two resets. Every time you press reset without the burner firing, the pump sprays more oil into the combustion chamber, and a chamber full of unburned oil can light off with a bang that damages the furnace. Stop after two.
 
-Some newer burners prime themselves, and some basement tanks feed the burner by gravity so the line fills on its own. If you don't see a bleeder valve, or the pump looks nothing like what's described here, don't guess. The U.S. Department of Energy's page on [furnaces and boilers](https://www.energy.gov/energysaver/furnaces-and-boilers) is a plain-language read on how a burner and its safety controls work.
+Some newer burners prime themselves, and some basement tanks feed the burner by gravity so the line fills on its own. If you don't see a bleeder valve, or the pump looks nothing like what's described here, don't guess.
 
 Stop and call a professional if you smell strong oil or see smoke, if the burner lights and cuts out again and again, if you can't find or open the bleeder, if there's oil on the floor under the furnace, or if you've pressed reset twice with no luck. A jerry can is a stopgap, so book a proper delivery for the morning before you go to bed.
 
@@ -67,13 +67,13 @@ Stop and call a professional if you smell strong oil or see smoke, if the burner
 
 Getting the furnace lit tonight is only half the job. A dry tank stirs up three things that can come back to bite you over the following weeks.
 
-Sludge. Every steel tank builds up a layer of muck from years of oil, condensation and rust. It sits harmlessly on the bottom until the pump starts sucking from the dregs. That sludge heads for the filter, then the nozzle. If your furnace runs fine for a week after the refill and then starts short-cycling, the filter is the first suspect. [Sludge in an oil tank](/blog/sludge-in-oil-tank/) is one of the main reasons old tanks get condemned at inspection.
+Sludge. Every steel tank builds up a layer of muck from years of oil, condensation and rust. It sits harmlessly on the bottom until the pump starts sucking from the dregs. That sludge heads for the filter, then the nozzle. If your furnace runs fine for a week after the refill and then starts short-cycling, the filter is the first suspect. [Sludge in an oil tank](/blog/water-in-oil-tank/) is one of the main reasons old tanks get condemned at inspection.
 
 Water. Condensation collects in a tank that sits half empty through a damp Avalon summer. Water is heavier than oil and pools at the bottom, and a tank that ran dry pulls it straight into the line. In a cold snap it can freeze in the line and stop the flow all over again.
 
 Rust. A tank running on fumes exposes more of the inside wall to moist air. On a tank near the end of its allowed life, this is often when a small weep at the bottom seam becomes a drip on the pad.
 
-Gerald in Kelligrews ran his outside tank dry in a February blow. Diesel in, line bled, furnace fired. Ten minutes later it quit. He bled it again, it fired again, it quit again. The filter was packed solid with sludge the dry tank had stirred up. A new filter got him through the week, but when the installer came out to [Conception Bay South](/oil-tank-service-conception-bay-south/) to look at the tank, the bottom seam was pitted and weeping. He went with a fibreglass tank, $3,850 installed with the old one gone, and the new tag is stamped decades out.
+Take an outside tank in Kelligrews that runs dry in a February blow. Diesel in, line bled, furnace fired. Ten minutes later it quits. The owner bleeds it again, it fires again, it quits again. The filter is packed solid with sludge the dry tank stirred up. A new filter gets them through the week, but when the installer comes out to [Conception Bay South](/oil-tank-service-conception-bay-south/) to look at the tank, the bottom seam is pitted and weeping. They go with a fibreglass tank, $3,850 installed with the old one gone, and the new tag is stamped decades out.
 
 ## When Running Out Turns Into a Tank Replacement
 
@@ -93,7 +93,7 @@ Emergency and after-hours premiums vary by contractor, so ask before you book. T
 
 Under the regulations, once a tank is disconnected you have 30 days to empty it, remove the sludge and leftover oil, dismantle it, cap the piping and tidy the site. If the tank leaked, that window shrinks to 10 days. That's why replacement quotes on the Avalon almost always include removal, and why you shouldn't leave the old tank sitting beside the house "for now".
 
-Wayne in Paradise had a heat pump and only kept the oil for the coldest weeks. When the truck refused his expired tank in December, he weighed a $3,100 100-gallon backup tank against running the heat pump alone through a Paradise January. He kept the oil.
+Plenty of homes in Paradise have a heat pump and only keep the oil for the coldest weeks. When the truck refuses an expired tank in December, the owner is weighing a $3,100 100-gallon backup tank against running the heat pump alone through a Paradise January. Most keep the oil.
 
 If a driver has refused your tank, our [expired tank emergency service](/expired-oil-tank-emergency-st-johns/) covers exactly this situation, and our [oil tank replacement page](/oil-tank-replacement-st-johns/) explains how a swap goes from first call to new tag. The full breakdown is in [what a replacement costs](/oil-tank-replacement-cost/).
 

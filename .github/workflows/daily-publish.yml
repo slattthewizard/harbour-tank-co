@@ -2,8 +2,8 @@ name: Daily Blog Publish
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # 8 AM PDT / 3 PM UTC
-  workflow_dispatch:
+    - cron: '0 15 * * *'  # daily 3 PM UTC; cloud_publish.py only publishes if the last post is 60+ h old, so one post every 72 h
+  workflow_dispatch:  # manual runs skip the 72 h gate and publish the next draft now
 
 jobs:
   publish:
@@ -21,6 +21,8 @@ jobs:
           python-version: '3.12'
 
       - name: Run publisher
+        env:
+          FORCE_PUBLISH: ${{ github.event_name == 'workflow_dispatch' }}
         run: python .github/scripts/cloud_publish.py
 
       - name: Commit and push
