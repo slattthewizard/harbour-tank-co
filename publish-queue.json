@@ -51,7 +51,8 @@
   },
   {
     "draft": "drafts/ran-out-of-heating-oil-2026-09-02.md",
-    "published": false
+    "published": true,
+    "publishedAt": "2026-09-13T17:55:30.514514Z"
   },
   {
     "draft": "drafts/oil-tank-gauge-not-working-2026-09-02.md",
