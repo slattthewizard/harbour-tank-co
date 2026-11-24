@@ -28,6 +28,22 @@ here, it does not go on the site. Verified 2026-09-02 during Phase 0 (site-facto
   dismantle and dispose of it, remove or cap piping, and restore the site.
 - s.18(5): after a leak or water intrusion that sequence compresses to 10 days, plus 30 days for remediation.
 - s.20(1): only inspection for registration requires a licence. There is no advertising restriction.
+- More sections verified from the regulation text 2026-11-23 (assembly.nl.ca rc030060):
+  - s.2(d) "alter" = enlarge, reduce, upgrade, repair, replace, add or remove any part, or change configuration of
+    piping, filter, tank, physical protection or secondary containment. s.12(3): an altered system must be inspected by a
+    licensed inspector; s.12(2) spill precautions during alterations; s.5(1)/(3) new or altered systems must be registered.
+  - s.2(m) "owner" = person with possessory rights to and care, control or management of the system, incl. their agent.
+  - s.2(n) "system" = tank(s) plus vent, fill and withdrawal piping and filters, up to the furnace connection.
+  - s.2(j) heating oil includes Type 1 (stove oil) and Type 2 (furnace oil). s.3: systems of 2,500 litres or less.
+  - s.6(3): age set from proof of installation date, else manufacture date; unknown age = cannot be registered.
+  - s.9: administrator may order re-inspection; deficiencies corrected within 30 days or registration revoked.
+  - s.10: licensed inspectors keep electronic registration/inspection records.
+  - s.15(6): physical protection required for tank, valves, gauges, piping/tubing.
+  - s.18(1)-(4): owner must immediately inform the department and their delivery company of a suspected leak or water
+    intrusion; no delivery until integrity verified or repaired/replaced. s.18(2): anyone else must try to inform both.
+  - s.19(1): delivery companies carry >= $2,000,000 per-occurrence environmental liability insurance for delivery spills.
+  - s.20(4)(b): licensed inspectors must recommend only necessary repairs or replacement.
+  - CSA B139 adopted; systems must also meet manufacturer's instructions and the System Installation and Inspection Manual.
 - Confirmation of registration is "often required by an insurance company to insure a home or by a
   lawyer/realtor when selling/purchasing a home" (department wording).
 
